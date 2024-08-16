@@ -31,7 +31,7 @@ url: "https://firepowi.github.io" # the base hostname & protocol for your site, 
 github_username: FirePowi
 
 # Build settings
-theme: overkyll-jekyll-theme
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
